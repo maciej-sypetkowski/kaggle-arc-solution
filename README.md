@@ -10,6 +10,8 @@ Solution Description
 
 Refer to [this kaggle post](https://www.kaggle.com/c/abstraction-and-reasoning-challenge/discussion/154436) for a solution description.
 
+A [kaggle notebook](https://www.kaggle.com/msypetkowski/8-tasks-with-decision-trees-from-8-th-solution) made from this code gets 0.92 LB.
+
 Setup
 -----
 
