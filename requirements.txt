@@ -5,5 +5,5 @@ numba==0.49.1
 opencv-python==4.2.0.34
 pytest==5.4.2
 scipy==1.4.1
-setuptools==39.0.1
+setuptools==65.5.1
 matplotlib==3.2.1
